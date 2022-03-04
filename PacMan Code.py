@@ -1,9 +1,3 @@
-# Assignment: Final project Treasure Hunt 
-# Description: Treasure Hunt game 
-# Name: Adam Izzet
-# Date: feb 2, 2021
-# Course Code: ICS2O1-03B 
-
 
 #Import & initialize the pygame module
 import pygame
